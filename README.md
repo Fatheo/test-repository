@@ -8,5 +8,4 @@ Good
 Y76
 
 A
-B
 C
